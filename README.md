@@ -162,6 +162,5 @@ To submit your entry to the contest, type:
 $ ./driver.pl -u ‘‘Your Nickname’’
 ```
 Nicknames are limited to 35 characters and can contain alphanumerics, apostrophes, commas, periods, dashes, underscores, and ampersands. You can submit as often as you like. Your most recent submission will appear on a real-time scoreboard, identified only by your nickname. You can view the scoreboard by pointing your browser at
-http://$SERVER_NAME:$REQUESTD_PORT
-SITE-SPECIFIC: Replace $SERVER_NAME and $REQUESTD_PORT with the values you
-set in the ./contest/Contest.pm file.
+
+https://datalab1.bryancdixon.com
